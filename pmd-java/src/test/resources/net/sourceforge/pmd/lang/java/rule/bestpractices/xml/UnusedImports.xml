@@ -462,7 +462,7 @@ public class Imports {
         <code><![CDATA[
 package net.sourceforge.pmd.lang.java.rule.bestpractices.unusedimports;
 
-import net.sourceforge.pmd.lang.java.rule.bestpractices.unusedimports.Base;
+import static net.sourceforge.pmd.lang.java.rule.bestpractices.unusedimports.Base;
 
 import java.io.File;
 
